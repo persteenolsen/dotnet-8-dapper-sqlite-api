@@ -1,6 +1,6 @@
-# dotnet-8-dapper-sqlite-crud-api-xunit
+# dotnet-8-dapper-sqlite-crud-api
 
-.NET 8 + VS Code + XUnit - Setup Unit Testing & Code Coverage in ASP.NET Core
+.NET 8 + VS Code + XUnit - Ready for setup Unit Testing & Code Coverage in ASP.NET Core
 
 # Last updated
 
